@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Facundo Gimenez I'm a 18 years old self-taught developer based in Argentina:balloon:
 <div style align="center">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=FacundoLG&show_icons=true&theme=tokyonight" />
-    <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoLG&layout=compact&theme=tokyonight" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=FacundoLG&show_icons=true&theme=tokyonight" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoLG&layout=compact&theme=tokyonight" />
 </div>
 
 ### *About me*
