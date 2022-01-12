@@ -6,7 +6,7 @@
 
 ### *About me*
 - :mag_right: Interested in all about Web Development
-- :closed_book: Currently I'm improving my skills on Webpack and Electron
+- :closed_book: Currently I'm improving my skills on Webpack
 - ⚡ Fun fact: I'm an Electronic technician
 
 </br>
