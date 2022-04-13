@@ -6,8 +6,7 @@
 
 ### *About me*
 - :mag_right: Interested in all about Web Development
-- :closed_book: Currently I'm improving my skills on Rust
-
+- :closed_book: Currently I'm learning Python and FastAPI
 </br>
 <a href="https://www.linkedin.com/in/facundo-leonel-gimenez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
