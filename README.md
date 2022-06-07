@@ -5,7 +5,7 @@
 </div>
 
 ### *About me*
-- :mag_right: Interested in all about Web Development
+- :mag_right: Interested in all about Web Development and IOT
 - 👯 I'm looking to collaborate on Frontend or Backend projects
 - 🌱 I'm currently learning about software testing 
 </br>
