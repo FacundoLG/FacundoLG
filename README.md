@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Facundo Gimenez, a FullStack developer based in Argentina:balloon:
-<div style align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FacundoLG&show_icons=true&theme=tokyonight" />
+<div style align="left">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoLG&layout=compact&theme=tokyonight" />
 </div>
 
